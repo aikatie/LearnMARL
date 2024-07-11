@@ -42,3 +42,7 @@ pip install -r requirements.txt
 | 19 现实世界中的应用                   | [NAS](https://github.com/titu1994/neural-architecture-search) [Recommender](https://github.com/awarebayes/RecNN) |
 
 
+---
+
+深度强化学习 by 王树森 配套代码
+https://www.ituring.com.cn/book/2982
